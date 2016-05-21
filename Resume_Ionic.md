@@ -10,11 +10,13 @@ Ternyata, ketika ide ini disampaikan ke para programer Android atau iOS, ide ini
 * Dokumentasi yang baik dan Forum yang selalu aktif - forum.ionicframework.com
 * Menggunakan AngularJS sebagai engine (Model,View,Controller)
 * Cross-platform ( Android, iOS,Windows phone, BB, dkk )
+
 ## Kekurangan
 * Target hanya untuk Android 4 dan ios 7 Keatas jika dipakai pada level bawah maka performansi akan turun.
 * Perfomansi yang buruk untuk web dengan tingkat grafik yang tinggi seperti 3D atau menggunakan video (seperti facebook).
 * Tidak memiliki semua plugin , terkadang anda harus memprogram sendiri.
 * Susah untuk didebug karena plugin yang digunakan terkadang tidak muncul pada saat dijalankan sebagai web aplikasi.
+
 ## Struktur
 Aplikasi ionic adalah aplikasi yang dibangun dengan Cordova dimana Cordova adalah paket html/css/js aplikasi yang dapat berjalan pada perangkat mobile dan desktop.Oleh karena itu ionic memiliki stuktur file yang sama seperti Cordova.
 
@@ -56,4 +58,3 @@ Untuk proses instalasi lebih lengkap anda dapat lihat di [sini](http://ionicfram
 
 ### Referensi 
 * http://ionicframework.com/.
-
