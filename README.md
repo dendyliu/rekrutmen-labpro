@@ -1,5 +1,5 @@
 # Rekrutmen Asisten Lab Programming Angkatan 2014
-
+Oleh: Dendy Suprihady/13514070
 ## Garis Besar Tugas
 Mengeksplorasi sebuah framework bernama Ionic yang akan digunakan untuk pembuatan sebuah project dalam memenuhi syarat rekrutmen asisten lab programming angkatan 2014.
 
