@@ -17,6 +17,7 @@ Eksplorasi github dan topik eksplorasi (bahasa/engine/framework) yang Anda dapat
 * Deliverables: Source code dan dokumentasi program sederhana sesuai topik eksplorasi
 
 Melakukan setup dan membuat program sederhana sesuai topik eksplorasi. Program sederhana yang dibuat minimal adalah semacam Hello World!, namun disarankan untuk membuat lebih dari itu demi kelancaran pembuatan rancangan proyek. Setup akan dinilai dari keberhasilan anda membuat Hello World!, sehingga tidak ada deliverable khusus. Untuk program sederhana, kumpulkan source code dan dokumentasi program saja, jangan mengumpulkan executablesnya (bisa menggunakan fitur gitignore). Pastikan dokumentasi Anda menjelaskan cara penggunaan dan screenshot-screenshot dari program sederhana yang Anda buat.
+* File yang dikumpulkan : Folder Eksplorasi2 untuk src dan Eksplorasi2/README.md untuk dokumentasi.
 
 ## Rancangan Proyek
 * Rilis: 31 Mei 2016
