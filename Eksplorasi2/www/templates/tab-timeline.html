@@ -1,0 +1,31 @@
+<ion-view view-title="Timeline">
+  <ion-content>
+      <div class="list list-inset">
+          <label class="item item-input">
+            <i class="icon ion-edit placeholder-icon"></i>
+            <input type="text" placeholder="Share Moment">
+          </label>
+        </div>
+      <ion-list class="list card">
+      <ion-item class="item-remove-animate" ng-repeat="timeline in timelines" >
+        <div class="item item-avatar">
+          <img src="{{timeline.face}}">
+          <h2>{{timeline.name}}</h2>
+          <p>{{timeline.date}}</p>
+        </div>
+
+        <div class="item item-body">
+          <img class="image" width="350" src="{{timeline.postimg}}">
+          <p>
+            {{timeline.post}}
+          </p>
+          <p>
+            <a href="#" class="subdued">{{timeline.like}} Like</a>
+            <a href="#" class="subdued">{{timeline.comment}} Comments</a>
+          </p>
+       </div>
+       
+      </ion-item>
+    </ion-list>
+    </ion-content>
+</ion-view>

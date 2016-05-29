@@ -1,0 +1,36 @@
+<ion-view view-title="Add Friend">
+  <ion-content>
+      <div class="list list-inset">
+          <label class="item item-input">
+            <i class="icon ion-search placeholder-icon"></i>
+            <input type="text" placeholder="Search by ID">
+          </label>
+        </div>
+      <ion-item class="item-icon-right" href="#">
+        <ion-item class=" item-icon-left">
+          <i class="icon ion-person-stalker "></i>
+      Create a Group
+        </ion-item>
+      <i class="icon ion-chevron-right icon-accessory"></i>
+       </ion-item>
+       <ion-list>
+        <div ng-repeat="group in groups">
+          <ion-item class="item-divider  item-icon-right"
+                    ng-click="toggleGroup(group)"
+                    ng-class="{active: isGroupShown(group)}">
+             <i class="icon icon-accessory" ng-class="isGroupShown(group) ? 'ion-chevron-up' : 'ion-chevron-down'"></i>  
+            &nbsp;
+            {{group.name}}
+            </ion-item>
+           <ion-item class="item item-avatar item-icon-right" href="#"
+                    ng-repeat="item in group.items | filter :filter"
+                    ng-show="isGroupShown(group)">
+              <img src="{{item.face}}">
+              <h2>{{item.name}}
+              </h2>
+              <i class="icon ion-person-add icon-accessory"></i>
+          </ion-item>
+        </div>
+      </ion-list>
+  </ion-content>
+</ion-view>
