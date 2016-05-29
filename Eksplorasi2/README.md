@@ -1,7 +1,7 @@
 # Ionic Simple Line Template
 ***
 
-Pada tugas eksplorasi 2 kali ini saya membuat sebuah program sederhana dengan menggunakan framework yang sedang saya eksplorasi yaitu framework ionic.
+Pada tugas eksplorasi 2 kali ini saya membuat sebuah program sederhana dengan menggunakan framework yang sedang saya eksplorasi yaitu framework ionic dimana framework ionic merupakan framework untuk membuat aplikasi web mobile.
 ## Preview Aplikasi
 Program sederhana yang saya buat adalah program yang merupakan template applikasi line dimana program ini menyerupai line messager hanya saja kita tidak bisa mengakses line secara sungguhan , program ini hanya menampilkan tampilan line saja.
 
@@ -29,12 +29,15 @@ Menu ini merupakan menu yang menampilkan daftar chat yang telah dilakukan oleh *
 
 **Tampilan detail chat** :
 ![alt text](https://raw.githubusercontent.com/dendyliu/rekrutmen-labpro/master/Eksplorasi2/pict/screenshot5.png)
+
 Pada gambar diatas memperlihatkan contoh tampilan chat secara mendetail terhadap pengguna lain.
 
 ## Tab-Add Friend
 ![alt text](https://raw.githubusercontent.com/dendyliu/rekrutmen-labpro/master/Eksplorasi2/pict/screenshot4.png)
+
 Menu ini merupakan tampilan dari menu untuk melakukan proses penambahan kontak teman atau *add friend* yang menyerupai menu *add friend* pada **Line** . Pada menu diatas terdapat button **Create a Group** untuk membuat group (pada applikasi ini button tersebut tidak berfungsi karena program ini hanya merupakan template tampilan saja).
 
 ## Tab-Timeline
 ![alt text](https://raw.githubusercontent.com/dendyliu/rekrutmen-labpro/master/Eksplorasi2/pict/screenshot6.png)
+
 Menu ini merupakan tampilan dari menu timeline , dimana *user* dapat meilhat postingan yang dibuat oleh user lain yang sudah menjadi *friend*. Pada menu ini terdapat input bar **Share Moment** untuk melakkukan postingan sendiri ( pada applikasi ini input bar juga belum berfungsi karena progrma ini merupakan template tampilan saja).
