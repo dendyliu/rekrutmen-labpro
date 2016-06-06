@@ -25,6 +25,7 @@ Melakukan setup dan membuat program sederhana sesuai topik eksplorasi. Program s
 * Deliverables: Dokumen rancangan proyek
 
 Membuat rancangan proyek yang meliputi deskripsi singkat, platform, fitur minimal, asumsi, dan batasan implementasi. Template dokumen akan disampaikan pada waktu rilis tugas ini, dan mungkin agak sedikit berbeda dengan apa yang disampaikan pada file ini, gunakan yang ada di template saja nanti.
+* File yang dikumpulkan : Folder Proposal_Proyek
 
 ## Revisi Rancangan Proyek
 * Rilis: 7 Juni 2016
